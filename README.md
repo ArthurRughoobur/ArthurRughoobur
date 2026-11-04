@@ -59,15 +59,6 @@ Côté parcours, j'ai obtenu le titre de Développeur Web et Web Mobile (RNCP 37
 - **Modules PrestaShop sur mesure** : carrousels de produits, blocs de contenu configurables, intégration d'articles de blog dans les pages catégorie.
 - **Infrastructure auto-hébergée** : déploiement d'une instance Nextcloud Talk.
 
-## Statistiques GitHub
-
-<div align="center">
-
-![Statistiques](https://github-readme-stats.vercel.app/api?username=ArthurRughoobur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRughoobur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88)
-
-</div>
-
 ## Travaillons ensemble
 
 Un projet de site, une boutique à faire évoluer, un module à développer : écrivez-moi à [contact@kalicie.eu](mailto:contact@kalicie.eu) ou passez par [kalicie.eu](https://kalicie.eu). Je réponds sous 48 h ouvrées.

@@ -9,7 +9,6 @@ d'extensions WordPress et de modules PrestaShop.
 
 [![Kaliciel](https://img.shields.io/badge/Site-kalicie.eu-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://kalicie.eu)
 [![E-mail](https://img.shields.io/badge/Contact-contact%40kalicie.eu-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:contact@kalicie.eu)
-[![Etayage](https://img.shields.io/badge/Organisation-Etayage-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/Etayage)
 
 </div>
 

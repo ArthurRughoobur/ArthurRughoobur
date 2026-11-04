@@ -1,16 +1,22 @@
-## Hi there 👋
+# Arthur Rughoobur
 
-<!--
-**ArthurRughoobur/ArthurRughoobur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur web et mobile à Rennes. Fondateur de [Kaliciel](https://kalicie.eu), un petit studio qui conçoit des sites vitrines, des thèmes et plugins WordPress, et des modules PrestaShop.
 
-Here are some ideas to get you started:
+Je suis en formation Concepteur Développeur d'Applications à l'ENI (Chartres-de-Bretagne) après un titre de Développeur Web et Web Mobile. Je m'intéresse de près à l'auto-hébergement et à l'infrastructure, avec le DevOps comme prochaine étape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sur quoi je travaille
+
+- **Kaliciel** : sites vitrines et portfolios sur mesure, maintenance et hébergement. Le client reste propriétaire de son site.
+- **WordPress** : thèmes et plugins écrits de zéro, sans dépendance payante (SEO, facturation, formulaires).
+- **PrestaShop** : modules à la demande, dont un module d'accessibilité pour les boutiques.
+- **Infrastructure** : services auto-hébergés, notamment une instance Nextcloud Talk.
+
+## Technologies
+
+PHP, JavaScript, HTML, CSS, MySQL, WordPress, PrestaShop, Linux, Git, Docker.
+
+## Contact
+
+- Site : [kalicie.eu](https://kalicie.eu)
+- E-mail : [contact@kalicie.eu](mailto:contact@kalicie.eu)
+- Organisation : [Etayage](https://github.com/Etayage)

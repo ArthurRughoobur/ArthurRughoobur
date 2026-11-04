@@ -1,22 +1,74 @@
+<div align="center">
+
 # Arthur Rughoobur
 
-Développeur web et mobile à Rennes. Fondateur de [Kaliciel](https://kalicie.eu), un petit studio qui conçoit des sites vitrines, des thèmes et plugins WordPress, et des modules PrestaShop.
+**Développeur web et mobile · Rennes**
 
-Je suis en formation Concepteur Développeur d'Applications à l'ENI (Chartres-de-Bretagne) après un titre de Développeur Web et Web Mobile. Je m'intéresse de près à l'auto-hébergement et à l'infrastructure, avec le DevOps comme prochaine étape.
+Fondateur de [Kaliciel](https://kalicie.eu), studio de création de sites vitrines,
+d'extensions WordPress et de modules PrestaShop.
 
-## Sur quoi je travaille
+[![Kaliciel](https://img.shields.io/badge/Site-kalicie.eu-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://kalicie.eu)
+[![E-mail](https://img.shields.io/badge/Contact-contact%40kalicie.eu-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:contact@kalicie.eu)
+[![Etayage](https://img.shields.io/badge/Organisation-Etayage-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/Etayage)
 
-- **Kaliciel** : sites vitrines et portfolios sur mesure, maintenance et hébergement. Le client reste propriétaire de son site.
-- **WordPress** : thèmes et plugins écrits de zéro, sans dépendance payante (SEO, facturation, formulaires).
-- **PrestaShop** : modules à la demande, dont un module d'accessibilité pour les boutiques.
-- **Infrastructure** : services auto-hébergés, notamment une instance Nextcloud Talk.
+</div>
+
+---
+
+## À propos
+
+Je conçois des sites et des outils qui répondent à un besoin précis, avec un code que je sais expliquer et maintenir. Je travaille avec des artisans, des indépendants et des petites structures, en Bretagne et à distance.
+
+Côté parcours, j'ai obtenu le titre de Développeur Web et Web Mobile (RNCP 37674) à l'ENI de Chartres-de-Bretagne, et je prépare désormais le titre de Concepteur Développeur d'Applications pour 2026-2027. L'infrastructure et l'auto-hébergement me passionnent, et le DevOps est la suite logique de mon parcours.
 
 ## Technologies
 
-PHP, JavaScript, HTML, CSS, MySQL, WordPress, PrestaShop, Linux, Git, Docker.
+**Langages et web**
 
-## Contact
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Site : [kalicie.eu](https://kalicie.eu)
-- E-mail : [contact@kalicie.eu](mailto:contact@kalicie.eu)
-- Organisation : [Etayage](https://github.com/Etayage)
+**CMS et e-commerce**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
+
+**Outils et infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+
+## Ce que je propose avec Kaliciel
+
+| Prestation | Détail |
+|---|---|
+| Site vitrine et portfolio | Conception sur mesure, rapide, optimisée pour le référencement. Le client reste propriétaire de son site. |
+| Développement WordPress | Thèmes et plugins écrits de zéro, sans extension payante : SEO, formulaires, facturation. |
+| Modules PrestaShop | Développement à la demande, dont un module d'accessibilité pour les boutiques en ligne. |
+| Maintenance et hébergement | Mises à jour, sauvegardes, sécurité et suivi dans la durée. |
+
+## Réalisations
+
+- **Kaliciel** : site portfolio et vitrine avec thème et plugins WordPress développés en interne (SEO, gestion des devis, factures et contrats).
+- **Module d'accessibilité PrestaShop** : module destiné à rendre les boutiques plus accessibles, commercialisé sous la marque Kaliciel.
+- **Modules PrestaShop sur mesure** : carrousels de produits, blocs de contenu configurables, intégration d'articles de blog dans les pages catégorie.
+- **Infrastructure auto-hébergée** : déploiement d'une instance Nextcloud Talk.
+
+## Statistiques GitHub
+
+<div align="center">
+
+![Statistiques](https://github-readme-stats.vercel.app/api?username=ArthurRughoobur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRughoobur&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88)
+
+</div>
+
+## Travaillons ensemble
+
+Un projet de site, une boutique à faire évoluer, un module à développer : écrivez-moi à [contact@kalicie.eu](mailto:contact@kalicie.eu) ou passez par [kalicie.eu](https://kalicie.eu). Je réponds sous 48 h ouvrées.
